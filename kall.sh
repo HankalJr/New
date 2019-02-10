@@ -65,10 +65,10 @@ clear
 sh newbaru.sh
 fi
 
-if [ $kal = 4 ] || [ $kal = 04 ]
+if [ $ kal  =  4 ] || [ $ kal  =  04 ]!
 then
-clear
-sh tkkall.sh
+bersih
+sh newbaru.sh
 fi
 
 if [ $kal = 5 ] || [ $kal = 05 ]
